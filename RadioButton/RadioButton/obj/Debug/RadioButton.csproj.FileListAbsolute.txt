@@ -1,0 +1,22 @@
+D:\ACP\WindowsFormsApp\RadioButton\RadioButton\bin\Debug\RadioButton.exe.config
+D:\ACP\WindowsFormsApp\RadioButton\RadioButton\bin\Debug\RadioButton.exe
+D:\ACP\WindowsFormsApp\RadioButton\RadioButton\bin\Debug\RadioButton.pdb
+D:\ACP\WindowsFormsApp\RadioButton\RadioButton\obj\Debug\RadioButton.csproj.AssemblyReference.cache
+D:\ACP\WindowsFormsApp\RadioButton\RadioButton\obj\Debug\RadioButton.csproj.SuggestedBindingRedirects.cache
+D:\ACP\WindowsFormsApp\RadioButton\RadioButton\obj\Debug\RadioButton.Form1.resources
+D:\ACP\WindowsFormsApp\RadioButton\RadioButton\obj\Debug\RadioButton.Properties.Resources.resources
+D:\ACP\WindowsFormsApp\RadioButton\RadioButton\obj\Debug\RadioButton.csproj.GenerateResource.cache
+D:\ACP\WindowsFormsApp\RadioButton\RadioButton\obj\Debug\RadioButton.csproj.CoreCompileInputs.cache
+D:\ACP\WindowsFormsApp\RadioButton\RadioButton\obj\Debug\RadioButton.exe
+D:\ACP\WindowsFormsApp\RadioButton\RadioButton\obj\Debug\RadioButton.pdb
+C:\Users\USER\Downloads\c# windows applications\RadioButton\RadioButton\bin\Debug\RadioButton.exe.config
+C:\Users\USER\Downloads\c# windows applications\RadioButton\RadioButton\bin\Debug\RadioButton.exe
+C:\Users\USER\Downloads\c# windows applications\RadioButton\RadioButton\bin\Debug\RadioButton.pdb
+C:\Users\USER\Downloads\c# windows applications\RadioButton\RadioButton\obj\Debug\RadioButton.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\c# windows applications\RadioButton\RadioButton\obj\Debug\RadioButton.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Downloads\c# windows applications\RadioButton\RadioButton\obj\Debug\RadioButton.Form1.resources
+C:\Users\USER\Downloads\c# windows applications\RadioButton\RadioButton\obj\Debug\RadioButton.Properties.Resources.resources
+C:\Users\USER\Downloads\c# windows applications\RadioButton\RadioButton\obj\Debug\RadioButton.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\c# windows applications\RadioButton\RadioButton\obj\Debug\RadioButton.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\c# windows applications\RadioButton\RadioButton\obj\Debug\RadioButton.exe
+C:\Users\USER\Downloads\c# windows applications\RadioButton\RadioButton\obj\Debug\RadioButton.pdb
